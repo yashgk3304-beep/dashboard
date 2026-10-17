@@ -1,0 +1,19 @@
+{
+  "name": "Yashwant's Productivity Dashboard",
+  "short_name": "Yashwant Dash",
+  "description": "A dark cosmic productivity dashboard for habits, planning, study analytics, and discipline.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#03040a",
+  "theme_color": "#03040a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
